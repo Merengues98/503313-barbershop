@@ -1,17 +1,9 @@
 # Учебный проект «Барбершоп»
 
----
+`salam aleykum`
 
-_Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitignore`, `Contributing.md`, `Readme.md`._
 
----
-
-### Памятка
-
-#### 1. Зарегистрируйтесь на Гитхабе
-
-Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
 
 #### 2. Создайте форк
 
@@ -19,7 +11,7 @@ _`.editorconfig`, `.gitignore`, `Contributing.md`, `Readme.md`._
 
 <img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037894-3cff89c2-7bae-11e7-8bae-a640a044bb03.jpg">
 
-Получится вот так:
+Получится вот так
 
 <img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037896-3dcef054-7bae-11e7-9857-babded766668.jpg">
 
