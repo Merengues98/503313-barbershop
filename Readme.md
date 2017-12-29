@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-`salam aleykum`
+`Hello Muslims! I'm programmer!`
 
 _`.editorconfig`, `.gitignore`, `Contributing.md`, `Readme.md`._
 
